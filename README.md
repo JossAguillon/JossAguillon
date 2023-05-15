@@ -3,7 +3,7 @@
 
 🌱 Actualmente estoy aprendiendo sobre creación de contenido en redes sociales en Platzi, Desarrolo Web Front-end, React, JS, HTML, entre otros.
 💞️ Estoy buscando un mentor en Swift
-📫 Puedes contactarme a mi correo electrónico [Visita mi proyecto](mailto:jocelyn_aguillon12@alumnos.uaq.mx)
+📫 Puedes contactarme a mi [correo electrónico](mailto:jocelyn_aguillon12@alumnos.uaq.mx)
 <a href="mailto:jocelyn_aguillon12@alumnos.uaq.mx">
   <a href="https://www.instagram.com/jocelyn_aguillon/">Touch me:):</a>
 
